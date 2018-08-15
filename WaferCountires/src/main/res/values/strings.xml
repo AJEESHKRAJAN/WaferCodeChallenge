@@ -1,1 +1,5 @@
-<resources></resources>
+<resources>
+    <string name="country_currency">Country Currency</string>
+    <string name="country_language">Country Language</string>
+    <string name="country_name">Country Name</string>
+</resources>
